@@ -18,7 +18,7 @@ Source des données : <https://www.kaggle.com/code/alexdarge/notebook-timeseries
 ## Organisation des fichiers
 
 <p align="center" width="100%">
-<img  src="https://cdn.discordapp.com/attachments/949493355354677278/952147096897732658/unknown.png" width="600"/></p>
+<img  src="https://cdn.discordapp.com/attachments/949493355354677278/974403888851582976/unknown.png" width="600"/></p>
 
 ## Source d'inspirations
 
