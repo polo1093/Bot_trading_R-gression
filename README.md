@@ -43,6 +43,7 @@ Source of data: <https://www.kaggle.com/code/alexdarge/notebook-timeseries-bitco
 
 # Source of inspiration
 
+<a href="https://www.youtube.com/watch?v=vg4zZCVALlE&list=FLdxr0fVp0MkVk6rl15SK9uQ&index=1&ab_channel=CryptoRobot">link youtube</a>
 <p align="center" width="100%">
 <a href="https://www.youtube.com/watch?v=vg4zZCVALlE&list=FLdxr0fVp0MkVk6rl15SK9uQ&index=1&ab_channel=CryptoRobot">
 <img  src="https://editorial.fxstreet.com/miscelaneous/4J2EYZjfNknKGfb4Es8W8ZtuDZzDaaSE6ZXmzl2x/btc%20ta.png" width="400"/></a></p>
