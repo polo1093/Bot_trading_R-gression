@@ -17,7 +17,7 @@ Another version by Classification will be available soon
 Source of data: <https://www.kaggle.com/code/alexdarge/notebook-timeseries-bitcoin>
 
 # Prerequis
-* A code editor such as VSCode, VSCodium or SublimeText.
+* A code editor python such as VSCode, jupyter or other.
 * A FTX account
 * install the requirements.txt
 
